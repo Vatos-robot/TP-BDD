@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vxqIm0LoJsv9MjoJjRs+saFsjfeiMkr0TWeTJn2rnaQ0ppbYT+ydPGK6c713PdrfWA3Y/gpnaFELwVip5j7SwQ==",
+  "success": true,
+  "projectFilePath": "/Users/hugobarbosapinto/Downloads/TP2_hugo-main/ClientApi/ClientApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/hugobarbosapinto/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/hugobarbosapinto/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/hugobarbosapinto/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/hugobarbosapinto/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/hugobarbosapinto/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
